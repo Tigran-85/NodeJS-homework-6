@@ -1,0 +1,27 @@
+[
+    {
+        "first_name": "Tigran",
+        "last_name": "Poghosyan",
+        "email": "tigran-phogosian@mail.ru",
+        "age": 36
+    },    
+    {
+        "first_name": "Lilit",
+        "last_name": "Poghosyan",
+        "email": "tigran-phogosian@mail.ru",
+        "age": 30
+    },
+    {
+        "first_name": "Mary",
+        "last_name": "Poghosyan",
+        "email": "tigran-phogosian@mail.ru",
+        "age": 3
+    },
+    {    
+        "first_name": "Markos",
+        "last_name": "Manukyan",
+        "email": "tigran-phogosian@mail.ru",
+        "age": 8
+    }
+]
+   
